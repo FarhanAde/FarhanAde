@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @teni06
+- 👋 Hi, I’m @FarhanAde
 - 👀 I’m interested in... Software and game development
 - 🌱 I’m currently learning... Machine learning in Python
 - 📫 How to reach me... farhanteni06@gmail.com
