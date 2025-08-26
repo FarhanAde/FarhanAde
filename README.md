@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FarhanAde
 - 👀 I’m interested in... Software and game development
-- 🌱 I’m currently learning... Machine learning in Python
+- 🌱 I’m currently learning... Game development in C++
 - 📫 How to reach me... farhanteni06@gmail.com
-- 💻 Most recently used language... Java
+- 💻 Most recently used language... Python
 - 📈 Most used language... Python
 - ⚡ Fun fact... I support Manchester City
 
